@@ -15,9 +15,9 @@ https://live.al-zahratv.com/live/playlist.m3u8
 http://stream.taksimbilisim.com:1935/altastv/bant1/playlist.m3u8
 #EXTINF:-1 ARAS TV
 http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
-#EXTINF:-1 BENGÜTÜRK TV
+#EXTINF:-1 BENGÃœTÃœRK TV
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
-#EXTINF:-1 Beþiktaþ Web TV
+#EXTINF:-1 BeÃ¾iktaÃ¾ Web TV
 https://s01.vpis.io/besiktas/besiktas.m3u8
 #EXTINF:-1 Bloomberg HT
 https://bloomberght2dvr.blutv.com/blutv_bloomberght_dvr/live.m3u8
@@ -29,7 +29,7 @@ https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
 http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:-1 Cay TV
 http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
-#EXTINF:-1 Çiftçi TV
+#EXTINF:-1 Ã‡iftÃ§i TV
 http://stream.taksimbilisim.com:1935/ciftcitv/smil:ciftcitv.smil/playlist.m3u8
 #EXTINF:-1 DHA
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
@@ -39,7 +39,7 @@ https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95
 https://yayin30.haber100.com/live/diyartv/playlist.m3u8
 #EXTINF:-1 Dost TV
 https://dost.stream.emsal.im/tv/live.m3u8
-#EXTINF:-1 Dream Türk
+#EXTINF:-1 Dream TÃ¼rk
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 DRT Denizli
 https://edge1.socialsmart.tv/drttv/bant1/playlist.m3u8
@@ -59,11 +59,11 @@ https://gcinemahls.wns.live/hls/stream.m3u8
 https://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live.m3u8
 #EXTINF:-1 Haber Global
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
-#EXTINF:-1 Habertürk TV
+#EXTINF:-1 HabertÃ¼rk TV
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
-#EXTINF:-1 Habertürk TV
+#EXTINF:-1 HabertÃ¼rk TV
 https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8
-#EXTINF:-1 Habertürk TV
+#EXTINF:-1 HabertÃ¼rk TV
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 #EXTINF:-1 Halk TV
 https://halktv.blutv.com/blutv_halktv_live/live.m3u8
@@ -95,9 +95,9 @@ https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 #EXTINF:-1 KRT
 https://krt.blutv.com/blutv_krt_live/live.m3u8
-#EXTINF:-1 Lalegül TV
+#EXTINF:-1 LalegÃ¼l TV
 http://lalegultv.netmedya.net/hls/lalegultv.m3u8
-#EXTINF:-1 Lalegül TV
+#EXTINF:-1 LalegÃ¼l TV
 http://lalegultv.netmedya.net/lalegul-tv/lalegultv.stream/playlist.m3u8
 #EXTINF:-1 Line TV
 https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8
@@ -107,7 +107,7 @@ https://med-musik.icdndhcp.com/live3/live3.m3u8
 https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 #EXTINF:-1 Milyon TV
 https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
-#EXTINF:-1 MTürk TV
+#EXTINF:-1 MTÃ¼rk TV
 https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
 #EXTINF:-1 Natural TV
 https://edge1.socialsmart.tv/naturaltv/bant1/playlist.m3u8
@@ -119,23 +119,23 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
 #EXTINF:-1 Number 1 Dance
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
-#EXTINF:-1 Ogün TV
+#EXTINF:-1 OgÃ¼n TV
 https://s01.vpis.io/ogun/ogun.m3u8
 #EXTINF:-1 On4 TV
 https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
-#EXTINF:-1 Öncü TV
+#EXTINF:-1 Ã–ncÃ¼ TV
 https://edge1.socialsmart.tv/oncurtv/bant1/playlist.m3u8
 #EXTINF:-1 Qaf TV
 https://mn-nl.mncdn.com/qaf/live/playlist.m3u8
 #EXTINF:-1 Rehber TV
 https://yayin30.haber100.com/live/rehbertv/playlist.m3u8
-#EXTINF:-1 Sarýyer TV
+#EXTINF:-1 SarÃ½yer TV
 https://s01.vpis.io/sariyer/sariyer.m3u8
 #EXTINF:-1 Sat7 Pars
 https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/playlist.m3u8
-#EXTINF:-1 Sat7 Türk
+#EXTINF:-1 Sat7 TÃ¼rk
 https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8
-#EXTINF:-1 Satranç TV
+#EXTINF:-1 SatranÃ§ TV
 http://139.162.182.79/live/test/index.m3u8
 #EXTINF:-1 Semerkand TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
@@ -175,25 +175,25 @@ https://mn-nl.mncdn.com/blutv_trt4k/live.m3u8
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 TRT Çocuk
+#EXTINF:-1 TRT Ã‡ocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 TRT Diyanet Çocuk
+#EXTINF:-1 TRT Diyanet Ã‡ocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 TRT EBA Ortaokul
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 TRT Kurdî
+#EXTINF:-1 TRT KurdÃ®
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 TRT Müzik
+#EXTINF:-1 TRT MÃ¼zik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 TRT Spor Yildiz
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 TRT Türk
+#EXTINF:-1 TRT TÃ¼rk
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 TürkHaber
+#EXTINF:-1 TÃ¼rkHaber
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 TV4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
@@ -219,9 +219,9 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee2
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 #EXTINF:-1 Ulusal Kanal
 https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
-#EXTINF:-1 ÜÜ TV 1
+#EXTINF:-1 ÃœÃœ TV 1
 https://uskudarunv.mediatriple.net/uskudarunv/uskudar1/playlist.m3u8
-#EXTINF:-1 ÜÜ TV Üsküdar Üniversitesi TV
+#EXTINF:-1 ÃœÃœ TV ÃœskÃ¼dar Ãœniversitesi TV
 https://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
 #EXTINF:-1 Woman TV
 https://embedlp.becdn.net/womantv.m3u8
@@ -229,3 +229,537 @@ https://embedlp.becdn.net/womantv.m3u8
 https://stream.yol.tv:9443/medialive/yol.m3u8
 #EXTINF:-1 Zarok TV
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
